@@ -1,4 +1,4 @@
-## Hi there 👋
+## ¡¡Hola a todos!! 👋
 
 <!--
 **LucasHeredia17/LucasHeredia17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+¡Hola! Soy Lucas, tengo 21 años y desde los 13 años, me ha fascinado el mundo digital y su funcionamiento detrás de escena. Siempre me he preguntado cómo se diseña una página web y dónde se almacenan los datos que proporcionamos. Estas preguntas y muchas otras inquietudes despertaron en mí el deseo de adentrarme en el mundo de la programación.
